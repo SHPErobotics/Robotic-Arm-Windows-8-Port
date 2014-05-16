@@ -1,0 +1,9 @@
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\bin\Debug\Robotic Arm - WindowsFormsApplication.exe.config
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\bin\Debug\Robotic Arm - WindowsFormsApplication.exe
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\bin\Debug\Robotic Arm - WindowsFormsApplication.pdb
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\obj\Debug\Robotic Arm - WindowsFormsApplication.csprojResolveAssemblyReference.cache
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\obj\Debug\Robotic_Arm___WindowsFormsApplication.Form1.resources
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\obj\Debug\Robotic_Arm___WindowsFormsApplication.Properties.Resources.resources
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\obj\Debug\Robotic Arm - WindowsFormsApplication.csproj.GenerateResource.Cache
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\obj\Debug\Robotic Arm - WindowsFormsApplication.exe
+c:\users\christian\documents\visual studio 2013\Projects\Robotic Arm - WindowsFormsApplication\Robotic Arm - WindowsFormsApplication\obj\Debug\Robotic Arm - WindowsFormsApplication.pdb
